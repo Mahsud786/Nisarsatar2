@@ -200,9 +200,9 @@ def login():
         print "\033[1;93m[3]\033[1;45m\033[1;32mDownload Token App               \033[1;0m"
         time.sleep(0.05)
         print "\033[1;94m[4]\033[1;45m\033[1;32mSubscribe Nisar mahsud     
-        time.sleep(0.05)
+        
 	
-        time.sleep(0.05)
+        
         print "\033[1;95m[0]\033[1;45m\033[1;34mExit                             \033[1;0m"
 	time.sleep(0.05)
 	pilih_login()
@@ -219,12 +219,8 @@ def pilih_login():
         elif peak =="3":
 	        os.system('xdg-open https://m.apkpure.com/get-access-token/com.proit.thaison.getaccesstokenfacebook/download/1-APK?from=versions%2Fversion')
 	        login()
-        elif peak =="4":
-	        os.system('xdg-open https://www.youtue.com')
-	        login()
-        elif peak =="5":
-	        os.system('xdg-open https://www.youtube.com/c
-                login()
+        
+      
 	elif peak =="0":
 		keluar()
         else:
