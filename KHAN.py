@@ -200,8 +200,8 @@ def login():
         time.sleep(0.05)
         print "\033[1;93m[3]\033[1;45m\033[1;32mDownload Token App               \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;94m[4]\033[1;45m\033[1;32mSubscribe Nisar mahsud     
-        time.sleep(0.05)
+        
+ 
 	
         time.sleep(0.05)
         print "\033[1;95m[0]\033[1;45m\033[1;34mExit                             \033[1;0m"
