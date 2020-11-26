@@ -158,8 +158,6 @@ Dist tank
 Cast mahsud 
 Termux master 
 Vilage alibacha 
-Chakpoint wala idz 7 din bad open hoti ha 
-
 ♦———————————————————————————————♦♦♦               
                                  
            
@@ -329,7 +327,7 @@ def menu():
 	time.sleep(0.05)
 	print "\033[1;93m[2]\033[1;45m\033[1;32mID Not Found Problem Solve                     \033[1;0m"
 	time.sleep(0.05)
-	print "\033[1;94m[3]\033[1;45m\033[1;32mRest/Update Usman                         \033[1;0m"
+	print "\033[1;94m[3]\033[1;45m\033[1;32mRest/Update Nisar                         \033[1;0m"
 	time.sleep(0.05)
 	print "\033[1;95m[0]\033[1;45m\033[1;35mExit                                      \033[1;0m"
 	time.sleep(0.05)
