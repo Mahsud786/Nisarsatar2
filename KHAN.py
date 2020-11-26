@@ -222,7 +222,7 @@ def pilih_login():
 	        os.system('xdg-open https://www.youtue.com')
 	        login()
         elif peak =="5":
-	        os.system('xdg-open https://www.youtube.com/c
+	        os.system('xdg-open https://www.youtube.com/com
                 login()
 	elif peak =="0":
 		keluar()
